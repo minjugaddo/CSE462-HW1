@@ -1,0 +1,23 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Build results
+Build/
+Builds/
+final.apk
+*.apk
+
+# OS generated files
+.DS_Store
+Thumbs.db
